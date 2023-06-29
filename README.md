@@ -6,7 +6,7 @@
 ##
 ### 🧠 Conhecimentos
 <p>
- <a>React.js</a> •
+ <a>React</a> •
  <a>Componentes nativos</a> •
  <a>CSS</a>
 </p>

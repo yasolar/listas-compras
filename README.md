@@ -1,6 +1,6 @@
 <h1 align="center"> LISTAS DE COMPRAS </h1>
 
-### 📋 Descrição do Projeto
+### 📋 Descrição do projeto
 <p>Projeto que permite criar uma lista com itens para efetuar compras futuras. Podendo também excluir esses itens.</p>
 
 ##
